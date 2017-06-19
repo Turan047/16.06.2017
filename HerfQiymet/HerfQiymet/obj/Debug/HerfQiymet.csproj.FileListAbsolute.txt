@@ -1,0 +1,6 @@
+c:\users\turan\documents\visual studio 2017\Projects\HerfQiymet\HerfQiymet\bin\Debug\HerfQiymet.exe.config
+c:\users\turan\documents\visual studio 2017\Projects\HerfQiymet\HerfQiymet\bin\Debug\HerfQiymet.exe
+c:\users\turan\documents\visual studio 2017\Projects\HerfQiymet\HerfQiymet\bin\Debug\HerfQiymet.pdb
+c:\users\turan\documents\visual studio 2017\Projects\HerfQiymet\HerfQiymet\obj\Debug\HerfQiymet.csprojResolveAssemblyReference.cache
+c:\users\turan\documents\visual studio 2017\Projects\HerfQiymet\HerfQiymet\obj\Debug\HerfQiymet.exe
+c:\users\turan\documents\visual studio 2017\Projects\HerfQiymet\HerfQiymet\obj\Debug\HerfQiymet.pdb
