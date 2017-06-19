@@ -1,0 +1,5 @@
+c:\users\turan\documents\visual studio 2017\Projects\Maash\Maash\bin\Debug\Maash.exe.config
+c:\users\turan\documents\visual studio 2017\Projects\Maash\Maash\bin\Debug\Maash.exe
+c:\users\turan\documents\visual studio 2017\Projects\Maash\Maash\bin\Debug\Maash.pdb
+c:\users\turan\documents\visual studio 2017\Projects\Maash\Maash\obj\Debug\Maash.exe
+c:\users\turan\documents\visual studio 2017\Projects\Maash\Maash\obj\Debug\Maash.pdb
