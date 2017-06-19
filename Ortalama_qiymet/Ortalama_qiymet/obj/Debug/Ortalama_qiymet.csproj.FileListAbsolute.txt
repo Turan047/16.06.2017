@@ -1,0 +1,6 @@
+c:\users\turan\documents\visual studio 2017\Projects\Ortalama_qiymet\Ortalama_qiymet\bin\Debug\Ortalama_qiymet.exe.config
+c:\users\turan\documents\visual studio 2017\Projects\Ortalama_qiymet\Ortalama_qiymet\bin\Debug\Ortalama_qiymet.exe
+c:\users\turan\documents\visual studio 2017\Projects\Ortalama_qiymet\Ortalama_qiymet\bin\Debug\Ortalama_qiymet.pdb
+c:\users\turan\documents\visual studio 2017\Projects\Ortalama_qiymet\Ortalama_qiymet\obj\Debug\Ortalama_qiymet.csprojResolveAssemblyReference.cache
+c:\users\turan\documents\visual studio 2017\Projects\Ortalama_qiymet\Ortalama_qiymet\obj\Debug\Ortalama_qiymet.exe
+c:\users\turan\documents\visual studio 2017\Projects\Ortalama_qiymet\Ortalama_qiymet\obj\Debug\Ortalama_qiymet.pdb
